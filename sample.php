@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "its 1 o clock!";
 ?>
 
 </body>
